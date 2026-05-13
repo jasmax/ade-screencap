@@ -1,6 +1,6 @@
 ade_bookshelf.py
 ================
-Adobe Digital Editions (ADE) Bookshelf Manager  +  Windows Screen Capture
+(ADE) Windows Screen Capture
 --------------------------------------------------------------------------
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
